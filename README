@@ -1,19 +1,67 @@
-## About This Release
+# Atmosphère Package
 
-This release is a rebuilt version based on the original source code of (Ultra NX)[https://github.com/Ultra-NX/UltraNX].
+A customized distribution of [Ultra NX](https://github.com/Ultra-NX/UltraNX), rebuilt from its original source with additional modules and components that are not included in the upstream project.
 
-This Atmosphère package includes several additional modules that are not included in, or are otherwise unavailable from, the original source.
+## Overview
 
-It is intended for users who want a ready-to-use setup with a comprehensive set of essential features, but may not be familiar with how individual modules work or how to configure them correctly. This helps reduce the risk of accidentally installing or configuring incompatible components that could cause issues with Atmosphère.
+This package is designed to provide a convenient, ready-to-use Atmosphère setup for users who want access to a broader set of commonly used features without having to manually identify, install, and configure individual modules.
 
-## Important Notice
+The included components are intended to complement the original Ultra NX configuration while keeping the setup straightforward for users who may not be familiar with the purpose or configuration requirements of each module.
 
-**This project is completely free and will always remain free.**
+## Based on Ultra NX
 
-This release was created in response to requests from users around the world. **We do not sell, charge for, or monetize this package in any form.**
+This project is based on the original Ultra NX source:
 
-Please be aware that any future releases claiming to be paid versions, official versions, or otherwise associated with this project should be treated with caution. There may be individuals who redistribute or modify this package for personal profit.
+**Upstream Repository:**
+https://github.com/Ultra-NX/UltraNX
 
-To avoid being scammed, always verify the original source and download only from the official project channels.
+The original project remains the foundation of this distribution. Additional components have been integrated to provide functionality that is not included in the original source.
 
-**We are not responsible for any losses or fees resulting from downloading this project from unofficial sources or paying third parties for something that is provided here free of charge.**
+## Free & Non-Commercial
+
+This project is **100% free of charge**.
+
+There are no paid versions, subscriptions, licenses, or commercial distributions of this package.
+
+This project was created and maintained in response to requests from users within the community and is provided free of charge to everyone.
+
+> **We do not sell this package or charge users for access to it in any form.**
+
+## Official Distribution
+
+Please obtain this project only from its official repository or officially published release channels.
+
+If you encounter another website, repository, individual, or third party offering this package for payment, please verify its authenticity before proceeding.
+
+Unauthorized redistribution, repackaging, or commercial distribution should not be assumed to be an official release of this project.
+
+### ⚠️ Important
+
+**If someone asks you to pay for this package, do not assume that the release is official.**
+
+Always verify:
+
+* The repository where the release was published
+* The original project/source
+* The release information
+* The authenticity of the files
+* Whether the distributor is officially associated with this project
+
+We strongly recommend **not purchasing this package from third parties**, as this project is distributed free of charge.
+
+## Disclaimer
+
+This project is provided **"as is"**, without any express or implied warranty.
+
+Users are responsible for verifying the source of any files they download and for ensuring that their system configuration is compatible with the included components.
+
+The maintainers of this project are not responsible for losses, fees, damages, or other issues resulting from unofficial redistribution, modified copies, fraudulent sales, or downloads obtained from third-party sources.
+
+## Credits
+
+* **Ultra NX** — Original source and project foundation
+* **Contributors & Community** — Additional modules, testing, feedback, and support
+
+---
+
+**This project is free. Verify the source before you pay for anything.**
