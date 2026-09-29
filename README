@@ -1,0 +1,19 @@
+## About This Release
+
+This release is a rebuilt version based on the original source code of [Ultra NX](https://github.com/Ultra-NX/UltraNX).
+
+This Atmosphère package includes several additional modules that are not included in, or are otherwise unavailable from, the original source.
+
+It is intended for users who want a ready-to-use setup with a comprehensive set of essential features, but may not be familiar with how individual modules work or how to configure them correctly. This helps reduce the risk of accidentally installing or configuring incompatible components that could cause issues with Atmosphère.
+
+## Important Notice
+
+**This project is completely free and will always remain free.**
+
+This release was created in response to requests from users around the world. **We do not sell, charge for, or monetize this package in any form.**
+
+Please be aware that any future releases claiming to be paid versions, official versions, or otherwise associated with this project should be treated with caution. There may be individuals who redistribute or modify this package for personal profit.
+
+To avoid being scammed, always verify the original source and download only from the official project channels.
+
+**We are not responsible for any losses or fees resulting from downloading this project from unofficial sources or paying third parties for something that is provided here free of charge.**
